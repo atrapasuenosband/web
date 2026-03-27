@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>R U I DO ::: [atrapasueños]</title>
+    <style>
+        body {
+            /* FONDO SHOEGAZE TILEADO: Textura borrosa y ruidosa */
+            background-color: #0000D1;
+            background-image: url('https://blob.gifcities.org/gifcities/IJGPBQ2P6OB4AVELWZ57ZQNL4R56CTPF.gif'); /* Textura estática púrpura/negra */
+            background-repeat: repeat;
+            
+            /* Colores de texto Shoegaze: Lavanda y Gris difuminado */
+            color: #D68FFF;
+            font-family: "Helvetica", Times, serif; /* O Courier */
+            cursor: crosshair; /* Cursor retro */
+            margin: 0;
+            padding: 10px;
+        }
+
+        /* Contenedor principal estilo tabla GeoCities pero descentrado */
+        .feedback-container {
+            width: 85%;
+            margin: 30px auto;
+            border: 6px outset #4b0082; /* Borde Indigo 3D */
+            background-color: rgba(0, 0, 0, 0.8); /* Fondo negro semi-transparente para legibilidad */
+            padding: 15px;
+            box-shadow: 10px 10px 0px #330033; /* Sombra sólida retro */
+        }
+
+        h1 {
+            /* Título borroso Shoegaze */
+            color: #ffb3ff;
+            text-align: center;
+            font-size: 45px;
+            font-family: "Courier New", Courier, monospace;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff; /* Efecto brillo/blur */
+        }
+
+        h2, h3 {
+            color: #99FFFF; /* Cian eléctrico para contraste */
+            font-family: sans-serif;
+            text-decoration: underline;
+        }
+
+        /* El clásico BLINK noventero */
+        @keyframes blinker {
+            50% { opacity: 0; }
+        }
+        .blink {
+            animation: blinker 1s linear infinite;
+            color: #ff0055; /* Rojo neón */
+            font-weight: bold;
+        }
+
+        /* Botones de navegación estilo "píxel" */
+        .nav-link {
+            border: 2px solid #d1b3ff;
+            padding: 5px 10px;
+            color: #d1b3ff;
+            text-decoration: none;
+            display: inline-block;
+            margin: 5px;
+            background-color: #330033;
+        }
+        .nav-link:hover {
+            background-color: #ff00ff;
+            color: #000;
+        }
+
+        /* Marquee Shoegaze: lento y atmosférico */
+        .vibe-marquee {
+            background-color: #4b0082;
+            color: #fff;
+            padding: 3px;
+            border-top: 2px solid #ffb3ff;
+            border-bottom: 2px solid #ffb3ff;
+        }
+
+        /* Contenedor de links de plataformas (más feo, más GeoCities) */
+        .noise-box {
+            border: 3px dashed #99FFFF;
+            padding: 15px;
+            margin: 20px;
+            text-align: center;
+        }
+
+        .platform-icon {
+            margin: 10px;
+            filter: grayscale(100%) contrast(150%); /* Efecto foto borrosa */
+            transition: 0.3s;
+        }
+        .platform-icon:hover {
+            filter: none; /* Recupera color al hover */
+        }
+
+    </style>
+</head>
+<body>
+
+<center>
+    <div class="feedback-container">
+        
+        <header>
+            <center>
+                <img src="https://blob.gifcities.org/gifcities/2OTY53JSA6NCUGHRYYJUK3YUVATBRRK5.gif" width="50">
+            </center>
+            <h1>atrapasueños</h1>
+            
+            <nav>
+                <a href="#fuzz" class="nav-link">R U I D O</a> |
+                <a href="#vibe" class="nav-link">N O S T A L G I A</a> |
+                <a href="#glitch" class="nav-link">S U E Ñ O S</a>
+            </nav>
+        </header>
+
+        <div class="vibe-marquee">
+            <marquee scrollamount="2">R U I D O ( E P ) 2 0 2 6</marquee>
+        </div>
+
+        <table width="100%" cellpadding="10">
+            <tr>
+                <td width="60%" valign="top">
+                    <div id="fuzz">
+                        <h2>el ruido de los sueños</h2>
+                        <img src="https://blob.gifcities.org/gifcities/36VYUTCLB5LYSTLUBDT4ZFX4HAFNJSYG.gif" align="left">
+                        <p>Somos una banda de shoegaze y dreampop formado por dani, jose y fer. Escúchanos y piérdete en el ruido.</p>
+                        
+                        <div class="noise-box">
+                            <h3><span class="blink">>>> los dias pasan <<<</span></h3>
+                            <p>SINGLE DISPONIBLE EN:</p>
+                            
+                            <a href="https://open.spotify.com/track/3t74TWcGwO2hIEzUrrFMC6?si=d14d0485286a413d" target="_blank">
+                                <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify" class="platform-icon">
+                            </a>
+                            
+                            <a href="https://www.youtube.com/@atrapasuenos.maj7" target="_blank">
+                                <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" class="platform-icon">
+                            </a>
+                        </div>
+                    </div>
+                </td>
+                <td width="40%" valign="top" style="border-left: 2px solid #4b0082;">
+                    <div id="vibe">
+                        <h3>siguenos</h3>
+                        <p>Síguenos en nuestra espiral de Instagram:</p>
+                        <center>
+                            <a href="https://www.instagram.com/enterthevoidd.wav?igsh=ZWZuZ3FwdzJsZm8x&utm_source=qr" target="_blank" style="color:#ffb3ff; font-weight:bold; font-size:18px;">
+                                @jose
+                            </a>
+                             <a href="https://www.instagram.com/my_dany.svd_?igsh=MWd5YW54Mm83bWE5Zg==" target="_blank" style="color:#ffb3ff; font-weight:bold; font-size:18px;">
+                                @dani
+                            </a>
+                            <a href="https://www.instagram.com/felixxmendezzz?igsh=MWtjOXpvd3YyeXVqMg==" target="_blank" style="color:#ffb3ff; font-weight:bold; font-size:18px;">
+                                @fer
+                            </a>
+                            <br><br>
+                            <img src="https://blob.gifcities.org/gifcities/D3SCCASBFHLCY3VYBT7N5HGQAHFGBQYT.gif">
+                        </center>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+    </div> <footer>
+        <font size="2" color="#666">
+            © 2026 atrapasueños. esta página se ve mejor con ruido de fondo. 
+            hecho con <img src="https://blob.gifcities.org/gifcities/CLWEKRN73HOGZU3L26MWF2FYYRQAFRB3.gif"> lagrimas sudor y sangre.
+        </font>
+        <br>
+        <img src="https://blob.gifcities.org/gifcities/34N3ZWLJBTJMXYZM4EUI5T4ZOXOI4CWW.gif">
+    </footer>
+
+</center>
+
+</body>
+</html>
